@@ -58,29 +58,6 @@ This is a modified release of the QuillBot browser extension.
 
 ---
 
-## 📢 Feedback
-
-> Got feedback or suggestions?  
-> I’d love to hear from you — just drop a note at  
-> [![Email](https://img.shields.io/badge/feedback@astroalgo.vip-222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feedback@astroalgo.vip)
-
----
-
-## 🔗 Links
-
-[![🌐 My Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://astroalgo.vip)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astro-algo-356556318/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mrx_astro)
-
----
-
-## 🛠️ Support
-
-> Need help or want to chat?  
-> [![Email](https://img.shields.io/badge/support@astroalgo.vip-222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@astroalgo.vip)
-> [![Discord](https://img.shields.io/badge/Join%20Our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EKe2A6gfqF)
-
----
 
 ## 📜 License
 
